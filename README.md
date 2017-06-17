@@ -1,2 +1,3 @@
-# how_to_tabs
+# How to: Tabs
+
 A professional way to do Web App
